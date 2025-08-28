@@ -6,11 +6,8 @@
   <p>💻 Developer • 🎨 Builder • 🚀 Shipping things on the web</p>
 
   <!-- quick badges -->
-  <a href="mailto:you@example.com">
+  <a href="slemaatran@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-you@example.com-1f2937?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://your-portfolio.com">
     <img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white">
@@ -21,10 +18,10 @@
 ---
 
 ### 👩‍💻 About me
-- 🔭 Hiện tại mình đang xây dựng các dự án về **X/Y/Z**  
-- 🌱 Đang học thêm **Rust / Go / Cloud**  
-- 💬 Hỏi mình về: **React, Node, DevOps nho nhỏ**  
-- 🎯 Mục tiêu 2025: **Open-source nhiều hơn & viết blog đều tay**
+- 🔭 Hiện tại mình đang xây dựng các dự án về **Bot Discord**
+- 🌱 Đang học thêm **React / NodeJS /**  
+- 💬 Mình hiện đang bán các dịch vụ mạng xã hội trên discord của mình: [Nhấn vào để tham gia](https://discord.gg/yukiisito)  
+- 🎯 Mục tiêu 2025: **Mở rộng kiến thức về lập trình**
 
 ---
 
@@ -69,9 +66,8 @@
 ---
 
 ### 📬 Get in touch
-- Email: you@example.com  
-- Twitter/X: [@yourhandle](https://x.com/yourhandle)  
-- Blog: [yourblog.dev](https://yourblog.dev)
+- Email: slemaatran@gmail.com
+- Blog: [Bio Của Tui]([https://yourblog.dev](https://zyo.lol/sertznez))
 
 ---
 
